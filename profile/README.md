@@ -1,5 +1,3 @@
-# .github
-
 # HaloDocs
 
 ![HaloDocs Logo](https://your-logo-url.com)  
