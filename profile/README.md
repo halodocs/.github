@@ -1,6 +1,6 @@
 # HaloDocs
 
-([https://github.com/halodocs/.github/profile/images/halodocs.png](https://raw.githubusercontent.com/halodocs/.github/refs/heads/main/profile/images/halodocs.png))  
+![HaloDocs Logo](https://raw.githubusercontent.com/halodocs/.github/refs/heads/main/profile/images/halodocs.png)  
 **Mini Wiki untuk Dokumentasi Pembelajaran**
 
 ## 📖 Tentang HaloDocs
