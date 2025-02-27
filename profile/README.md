@@ -1,6 +1,6 @@
 # HaloDocs
 
-![HaloDocs Logo](https://your-logo-url.com)  
+![HaloDocs Logo](https://github.com/halodocs/.github/profile/images/halodocs.png)  
 **Mini Wiki untuk Dokumentasi Pembelajaran**
 
 ## 📖 Tentang HaloDocs
