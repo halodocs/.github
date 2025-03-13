@@ -8,12 +8,12 @@ HaloDocs adalah sebuah organisasi GitHub yang bertujuan untuk menjadi pusat doku
 
 ## 📚 Topik yang Dibahas
 Topik pembahasan pada HaloDocs:
-- Cloud Computing
-- Data Mining
-- General English IV
-- Kecerdasan Buatan
+- [Cloud Computing](https://github.com/halodocs/Cloud_Computing/)
+- [Data Mining](https://github.com/halodocs/Data_Mining/)
+- [General English IV](https://github.com/halodocs/General_English-IV/)
+- [Kecerdasan Buatan](https://github.com/halodocs/Kecerdasan_Buatan/)
 - [Software Quality](https://github.com/halodocs/Software_Quality/)
-- Statistik Probabilitas
+- [Statistik Probabilitas](https://github.com/halodocs/Statistik_Probabilitas/)
 
 ## 🎯 Tujuan & Manfaat
 - Membantu dalam memahami dan mengingat konsep penting dalam pemrograman.
