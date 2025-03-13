@@ -15,16 +15,6 @@ Topik pembahasan pada HaloDocs:
 - [Software Quality](https://github.com/halodocs/Software_Quality/)
 - Statistik Probabilitas
 
-## 📂 Struktur Repositori
-HaloDocs terdiri dari berbagai repositori yang dikategorikan berdasarkan topik. Beberapa repositori utama yang tersedia:
-- `html-css-docs` → Dokumentasi dasar HTML & CSS.
-- `javascript-docs` → Catatan dan tutorial tentang JavaScript.
-- `go-docs` → Panduan backend development dengan Go.
-- `python-docs` → Berbagai konsep Python dari dasar hingga lanjut.
-- `database-docs` → Catatan terkait SQL & NoSQL.
-- `security-docs` → Panduan memahami dan mengatasi celah keamanan web.
-- Dan banyak lagi!
-
 ## 🎯 Tujuan & Manfaat
 - Membantu dalam memahami dan mengingat konsep penting dalam pemrograman.
 - Menyediakan sumber referensi yang mudah diakses bagi siapa saja.
