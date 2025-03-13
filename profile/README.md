@@ -7,14 +7,13 @@
 HaloDocs adalah sebuah organisasi GitHub yang bertujuan untuk menjadi pusat dokumentasi dari berbagai topik yang dipelajari. Ini seperti sebuah **mini wiki** yang berisi catatan penting, tutorial, dan referensi seputar pemrograman, teknologi, serta instalasi berbagai tools.
 
 ## 📚 Topik yang Dibahas
-HaloDocs mencakup berbagai aspek dalam dunia teknologi dan pemrograman, termasuk tetapi tidak terbatas pada:
-- **HTML & CSS** - Dasar-dasar dan praktik terbaik dalam pengembangan web.
-- **JavaScript** - Konsep dasar hingga tingkat lanjut dalam JS.
-- **Go** - Pemrograman backend dengan Go Fiber dan teknologi terkait.
-- **Python** - Dasar hingga lanjutan dalam bahasa Python.
-- **SQL & NoSQL** - Manajemen database relasional dan non-relasional.
-- **Instalasi & Konfigurasi** - Panduan setup berbagai tools dan environment pengembangan.
-- **Keamanan Web** - Memahami dan mencegah celah keamanan seperti XSS, SQL Injection, CSRF, dll.
+Topik pembahasan pada HaloDocs:
+- Cloud Computing
+- Data Mining
+- General English IV
+- Kecerdasan Buatan
+- [Software Quality](https://github.com/halodocs/Software_Quality/)
+- Statistik Probabilitas
 
 ## 📂 Struktur Repositori
 HaloDocs terdiri dari berbagai repositori yang dikategorikan berdasarkan topik. Beberapa repositori utama yang tersedia:
